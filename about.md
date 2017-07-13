@@ -1,18 +1,19 @@
 ---
 layout: page
-title: About
+title: 关于
 permalink: /about/
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](https://jekyllrb.com/)
+你不要失望，荡气回肠是为了最美的平凡。——陈奕迅
 
-You can find the source code for Minima at GitHub:
-[jekyll][jekyll-organization] /
-[minima](https://github.com/jekyll/minima)
+这是一个普通程序员的博客。
 
-You can find the source code for Jekyll at GitHub:
-[jekyll][jekyll-organization] /
-[jekyll](https://github.com/jekyll/jekyll)
+我不喜欢别人叫我码农，因为我的代码有我自己的艺术；
 
+我喜欢自己是一名程序员，因为我在认真的创作。
 
-[jekyll-organization]: https://github.com/jekyll
+虽然写着自己喜欢的写的东西，但难免写得不对。
+
+如果你发现了文章的问题或有不同意见，欢迎指出，共同探讨。
+
+邮箱：caiwenhai2017@icloud.com
