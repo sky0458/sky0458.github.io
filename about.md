@@ -16,4 +16,4 @@ permalink: /about/
 
 如果你发现了文章的问题或有不同意见，欢迎指出，共同探讨。
 
-邮箱：caiwenhai2017@icloud.com
+邮箱：[{{ site.email }}](mailto:{{ site.email }})
